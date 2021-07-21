@@ -1,0 +1,19 @@
+{
+  "name": "scope",
+  "version": "1.0.0",
+  "description": "practicas con el scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloASanchezC/scope.git"
+  },
+  "author": "\"Pablo Sanchez <pspablosanchezc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PabloASanchezC/scope/issues"
+  },
+  "homepage": "https://github.com/PabloASanchezC/scope#readme"
+}
